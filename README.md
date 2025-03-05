@@ -10,9 +10,22 @@ In this project, part of the ModIA course, we focus on training and evaluating C
 
 This project aims to provide insights into both the capabilities of modern CNN architectures and the challenges posed by dataset biases in machine learning.
 
+## 🔧 Implemented Models
+
+- **LeNet**
+- **ResNet**
+
+## 🌟 Key Features
+
+- **Image Preprocessing with PyTorch**:
+  - Grayscale conversion
+  - Resizing
+  - Data augmentation (e.g., random vertical flip)
+
+- **Training CNN Models**
+
+- **Dataset Preparation**
+
 ## 📄 Project Files
 
-- 📜 **[Report.pdf](./Report.pdf)** – The full report detailing the methodology, findings, and analysis of the project.
-- 📊 **[Results.pdf](./Results.pdf)** – Visualizations and results of the experiments conducted.
-
-The code and additional resources are available in the **[dev branch](https://github.com/your-username/ImageNet-CNN-Bias-Analysis/tree/main)**.
+- 📜 **[Report.pdf](./Report/Report.pdf)** – The full report detailing the methodology, findings, and analysis of the project.
